@@ -15,7 +15,7 @@ An education company named X Education sells online courses to industry professi
 - Prediction on test set
 - Precision- Recall
 ## Details of files given
-Lead Score Case Study Reema Juneja.ipynb : The python file showing coding and data analysis
-Assignment Subjective Questions 1.pdf : Some subjective questions answered
-Lead Score Case Study(1).pdf : Final Presentation
-Summary(1).pdf : Summary on what's done in the entire py file.
+- Lead Score Case Study Reema Juneja.ipynb : The python file showing coding and data analysis
+- Assignment Subjective Questions 1.pdf : Some subjective questions answered
+- Lead Score Case Study(1).pdf : Final Presentation
+- Summary(1).pdf : Summary on what's done in the entire py file.
